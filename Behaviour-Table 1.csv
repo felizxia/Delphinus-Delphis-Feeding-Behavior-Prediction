@@ -1,0 +1,382 @@
+Time,N°survey,N°sighting,Date,Lat N,Long E,Species,Set,N° animal,A,J,C,Other species,Boat,S,Se,HSB,FB,Fe,T,Dist from boat,Speed boat,Our boat dist,BEARING,Direction ,Reaction ,Dolphin speed,Diving time,Movement formation,State ,Event,Category ,Note,Stratum
+11:08,2,1,18.02.2016,NO GPS,NO GPS,DD,1,12,9,3,0,"Yellow leg, Shearwater",0,0,0,0,0,0,0,/,/,30,280,/,NEG,NA,/,TI,SU-F,/,F,group of juvenile,Random Pyth to Marathokampos
+11:13,2,1,18.02.2016,/,/,DD,1,12,9,3,0,"Yellow leg, Shearwater",0,0,0,0,0,0,0,/,/,50,330,/,NEU,NA,/,TI,SU-F,/,F,group of juvenile,Random Pyth to Marathokampos
+11:18,2,1,18.02.2016,/,/,DD,1,12,9,3,0,"Yellow leg, Shearwater",0,0,0,0,0,0,0,/,/,100,270,/,NEU,NA,NA,TI,TR,/,TR,group of juvenile,Random Pyth to Marathokampos
+11:23,2,1,18.02.2016,/,/,DD,1,12,9,3,0,"Yellow leg, Shearwater",0,0,0,0,0,0,0,/,/,10,270,/,POS,NA,NA,SP,"D,TR",BU,TR,group of juvenile,Random Pyth to Marathokampos
+11:28,2,1,18.02.2016,/,/,DD,1,12,9,3,0,"Yellow leg, Shearwater",0,0,0,0,0,0,0,/,/,10,270,/,POS,NA,/,SP,TR,/,TR,group of juvenile,Random Pyth to Marathokampos
+13:55,2,2,18.02.2016,NO GPS,NO GPS,UND,1,3,3,0,0,/,0,0,0,0,0,0,0,/,/,20,330,/,NEG,NA,/,FR,TR,/,TR,,Random Pyth to Marathokampos
+14:17,2,3,18.02.2016,NO GPS,NO GPS,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,NA,/,FR,UND,/,UND,,Random Pyth to Marathokampos
+14:22,2,3,18.02.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,10,270,/,POS,NA,/,LI,TR,/,TR,,Random Pyth to Marathokampos
+14:27,2,3,18.02.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,20,30,/,POS,NA,/,LI,Re,/,S,,Random Pyth to Marathokampos
+6:47,6,4,03.03.2016,NO GPS,NO GPS,DD,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,500,0,/,NEU,NA,NA,SP,D,/,F,,Random to Samiopoula
+6:52,6,4,03.03.2016,/,/,DD,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,50,60,/,NEG,NA,NA,SP,D,/,F,,Random to Samiopoula
+6:57,6,4,03.03.2016,/,/,DD,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,400,270,/,NEU,NA,NA,FR,D,/,F,,Random to Samiopoula
+7:02,6,4,03.03.2016,/,/,DD,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,30,60,/,NEU,NA,/,SP,SU-F,/,F,,Random to Samiopoula
+7:07,6,4,03.03.2016,/,/,DD,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,30,270,/,NEU,NA,/,SP,SU-F,2B,F,,Random to Samiopoula
+7:12,6,4,03.03.2016,/,/,DD,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,100,270,/,NEU,NA,/,SP,SU-F,/,F,,Random to Samiopoula
+7:19,6,4,03.03.2016,/,/,DD,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,0,0,/,NEG,NA,/,LI,TR,/,TR,,Random to Samiopoula
+10:03,6,5,03.03.2016,NO GPS,NO GPS,UND,1,1,1,0,0,/,0,0,0,0,0,0,0,/,/,300,0,/,NEU,NA,NA,AL,"TR,D",/,TR,,Random to Samiopoula
+10:14,6,6,03.03.2016,NO GPS,NO GPS,DD,1,12,12,0,0,/,0,0,0,0,0,0,0,/,/,50,30,/,POS,NA,/,LI,TR,/,TR,,Random to Samiopoula
+10:19,6,6,03.03.2016,/,/,DD,1,12,12,0,0,/,0,0,0,0,0,0,0,/,/,70,60,/,POS,NA,/,SP,Mi,2Ma,Mi,,Random to Samiopoula
+10:24,6,6,03.03.2016,/,/,DD,1,12,12,0,0,/,0,0,0,0,0,0,0,/,/,150,90,/,NEU,NA,/,SP,TR,/,TR,,Random to Samiopoula
+10:30,6,6,03.03.2016,/,/,DD,1,12,12,0,0,/,0,0,0,0,0,0,0,/,/,200,270,/,NEU,NA,NA,SP,D,/,TR,,Random to Samiopoula
+10:35,6,6,03.03.2016,/,/,DD,1,12,12,0,0,/,0,0,0,0,0,0,0,/,/,300,240,/,NEU,NA,/,SP,Re,/,Re,,Random to Samiopoula
+10:40,6,6,03.03.2016,NO GPS,NO GPS,DD,1,12,12,0,0,/,0,0,0,0,0,0,0,/,/,150,300,/,NEU,NA,/,SP,Re,/,Re,,Random to Samiopoula
+10:45,6,6,03.03.2016,/,/,DD,1,12,12,0,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,NA,/,SP,Re,/,Re,,Random to Samiopoula
+11:44,6,7,03.03.2016,NO GPS,NO GPS,TT,1,7,6,1,0,/,0,0,0,0,0,0,0,/,/,50,330,/,NEG,NA,/,SP,TR,/,TR,,Random to Samiopoula
+11:49,6,7,03.03.2016,/,/,TT,1,7,6,1,0,/,0,0,0,0,0,0,0,/,/,100,270,/,NEU,NA,NA,SP,D,/,TR,,Random to Samiopoula
+11:51,6,7,03.03.2016,/,/,TT,1,7,6,1,0,shearwater,0,0,0,0,0,0,0,/,/,500,270,/,NEU,f,/,SP,TR,/,TR,,Random to Samiopoula
+11:54,6,7,03.03.2016,/,/,TT,1,7,6,1,0,/,0,0,0,0,0,0,0,/,/,10,270,/,NEU,NA,NA,SP,D,/,TR,,Random to Samiopoula
+11:56,6,7,03.03.2016,/,/,TT,1,7,6,1,0,/,0,0,0,0,0,0,0,/,/,50,270,/,NEU,NA,NA,SP,"TR,D",/,TR,,Random to Samiopoula
+12:01,6,7,03.03.2016,/,/,TT,1,7,6,1,0,/,0,0,0,0,0,0,0,/,/,300,60,/,NEU,NA,NA,SP,"TR,D",/,TR,,Random to Samiopoula
+12:23,6,8,03.03.2016,NO GPS,NO GPS,TT,1,1,1,0,0,/,0,0,0,0,0,0,0,/,/,70,30,/,NEU,NA,NA,AL,D,/,TR,,Random to Samiopoula
+12:38,6,9,03.03.2016,NO GPS,NO GPS,DD,1,4,3,1,0,/,0,0,0,0,0,0,0,/,/,UND,210,/,NEU,f,/,FR,TR,/,TR,,Random to Samiopoula
+12:59,6,9,03.03.2016,/,/,DD,1,4,3,1,0,/,0,0,0,0,0,0,0,/,/,50,60,/,POS,NA,NA,SP,D,/,TR,,Random to Samiopoula
+13:04,6,9,03.03.2016,/,/,DD,1,4,3,1,0,/,0,0,0,0,0,0,0,/,/,30,270,/,NEU,NA,NA,SP,D,/,TR,,Random to Samiopoula
+13:09,6,9,03.03.2016,/,/,DD,1,4,3,1,0,/,0,0,0,0,0,0,0,/,/,10,270,/,POS,NA,NA,FR,D,/,TR,,Random to Samiopoula
+13:14,6,9,03.03.2016,/,/,DD,1,4,3,1,0,/,0,0,0,0,0,0,0,/,/,100,90,/,NEU,NA,NA,SP,D,/,TR,,Random to Samiopoula
+13:31,15,10,01.04.2016,NO GPS,NO GPS,DD,1,22,12,10,0,/,0,0,0,0,0,0,0,/,/,800,0,/,NEU,f,/,SP,TR,/,TR,,Random to Samiopoula
+13:36,15,10,01.04.2016,/,/,DD,1,22,12,10,0,/,0,0,0,0,0,0,0,/,/,1000,0,/,NEU,NA,NA,SP,"TR,D","1 SH, 1 FL",TR,,Random to Samiopoula
+13:41,15,10,01.04.2016,/,/,DD,1,22,12,10,0,/,0,0,0,0,0,0,0,/,/,150,0,/,POS,NA,/,SP,Mi,"1 BU, 2 BR",Mi,,Random to Samiopoula
+13:46,15,10,01.04.2016,/,/,DD,1,22,12,10,0,/,0,0,0,0,0,0,0,/,/,20,120,/,POS,NA,/,SP,So,1 FL,So,,Random to Samiopoula
+13:51,15,10,01.04.2016,/,/,DD,1,22,12,10,0,/,0,0,0,0,0,0,0,/,/,50,90,/,POS,NA,/,SP,TR,1 BU,TR,,Random to Samiopoula
+13:56,15,10,01.04.2016,/,/,DD,1,22,12,10,0,/,0,0,0,0,0,0,0,/,/,50,180,/,NEU,NA,/,SP,So,"1 BU, 1 FL",So,,Random to Samiopoula
+14:01,15,10,01.04.2016,/,/,DD,1,22,12,10,0,/,0,0,0,0,0,0,0,/,/,150,90,/,NEU,NA,/,SP,Mi,4 FL,Mi,,Random to Samiopoula
+14:06,15,10,01.04.2016,/,/,DD,1,22,12,10,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,NA,/,SP,So,2 FL,So,,Random to Samiopoula
+14:11,15,10,01.04.2016,/,/,DD,1,22,12,10,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,NA,/,SP,So,"1 TS, 1 FL",So,,Random to Samiopoula
+7:24,17,11,07.04.2016,NO GPS,NO GPS,DD,1,4,3,1,0,/,0,0,0,0,0,0,0,/,/,700,330,/,NEU,f,/,LI,TR,/,TR,,Random to Samiopoula
+7:33,17,11,07.04.2016,/,/,DD,1,4,3,1,0,/,0,0,0,0,2,0,0,2FBF,NA,300,270,/,NEG,NA,/,SP,TR,/,TR,,Random to Samiopoula
+7:38,17,11,07.04.2016,/,/,DD,1,4,3,1,0,/,0,0,0,0,2,0,0,2FBF,NA,500,180,/,NEU,NA,/,SP,Mi,/,Mi,,Random to Samiopoula
+7:39,17,11,07.04.2016,/,/,DD,1,4,3,1,0,/,0,0,0,0,2,0,0,2FBF,NA,50,270,/,NEG,NA,/,AL,TR,/,TR,,Random to Samiopoula
+8:00,17,12,07.04.2016,NO GPS,NO GPS,DD,1,5,5,0,0,/,0,0,0,0,0,0,0,/,/,1000,300,/,NEU,f,/,AL,TR,/,TR,,Random to Samiopoula
+8:05,17,12,07.04.2016,/,/,DD,1,5,5,0,0,/,0,0,0,0,0,0,0,/,/,600,0,/,NEU,NA,/,SP,TR,/,TR,,Random to Samiopoula
+8:08,17,13,07.04.2016,/,/,DD,1,12,7,5,0,/,0,0,0,0,0,0,0,/,/,1000,0,/,NEU,NA,/,SP,SU-F,/,F,,Random to Samiopoula
+8:10,17,13,07.04.2016,NO GPS,NO GPS,DD,1,12,7,5,0,/,0,0,0,0,0,0,0,/,/,500,0,/,NEU,NA,/,LI,SU-F,2B,F,,Random to Samiopoula
+8:15,17,13,07.04.2016,/,/,DD,1,12,7,5,0,/,0,0,0,0,0,0,0,/,/,20,30,/,NEU,NA,/,SP,Mi,/,Mi,,Random to Samiopoula
+8:20,17,13,07.04.2016,/,/,DD,1,12,7,5,0,/,0,0,0,0,0,0,0,/,/,400,330,/,NEU,NA,/,FR,TR,/,TR,,Random to Samiopoula
+8:25,17,13,07.04.2016,/,/,DD,1,12,7,5,0,/,0,0,0,0,0,0,0,/,/,10,180,/,NEU,NA,/,LI,SU-F,2B,F,,Random to Samiopoula
+8:30,17,13,07.04.2016,/,/,DD,1,12,7,5,0,/,0,0,0,0,0,0,0,/,/,30,0,/,NEU,NA,/,SP,SU-F,3B,F,,Random to Samiopoula
+8:35,17,13,07.04.2016,/,/,DD,1,12,7,5,0,/,0,0,0,0,0,0,0,/,/,700,240,/,NEU,NA,/,SP,Mi,/,Mi,,Random to Samiopoula
+8:46,17,14,07.04.2016,NO GPS,NO GPS,UND,1,1,1,0,0,/,2,0,0,0,2,0,0,2FBF,NA,200,330,/,NEG,NA,/,AL,TR,/,TR,,Random to Samiopoula
+6:37,20,15,14.04.2016,37.769208,27.069842,UND,1,5,4,1,0,/,0,0,0,1,0,0,0,1HSBM,NA,30,90,/,NEG,NA,/,SP,TR,/,TR,,Random to Samiopoula
+12:18,21,16,14.04.2016,NO GPS,NO GPS,DD,1,5,4,1,0,/,0,0,0,0,0,0,0,/,/,20,330,/,POS,NA,/,SP,TR,1BR,TR,,Random to Samiopoula
+12:23,21,16,14.04.2016,/,/,DD,1,5,4,1,0,/,0,0,0,0,0,0,0,/,/,30,330,/,NEG,NA,/,SP,TR,/,TR,,Random to Samiopoula
+12:28,21,16,14.04.2016,/,/,DD,1,5,4,1,0,/,0,0,0,0,0,0,0,/,/,20,330,/,POS,NA,/,SP,TR,1BR,TR,,Random to Samiopoula
+12:33,21,16,14.04.2016,/,/,DD,1,5,4,1,0,/,0,0,0,0,0,0,0,/,/,60,330,/,NEG,NA,/,SP,TR,/,TR,,Random to Samiopoula
+13:01,23,16,15.04.2016,37.627047,26.823337,DD,1,15,13,2,0,/,0,0,0,0,0,0,0,/,/,20,90,/,NEU,NA,/,LI,TR,/,TR,,Random to Samiopoula
+13:06,23,16,15.04.2016,/,/,DD,1,15,13,2,0,/,0,0,0,0,0,0,0,/,/,20,60,/,NEU,NA,/,SP,TR,1L,TR,,Random to Samiopoula
+13:11,23,16,15.04.2016,/,/,DD,1,15,13,2,0,/,0,0,0,0,0,0,0,/,/,10,300,/,POS,NA,/,SP,TR,/,TR,,Random to Samiopoula
+13:16,23,16,15.04.2016,/,/,DD,1,15,13,2,0,/,0,0,0,0,0,0,0,/,/,100,0,/,NEG,NA,/,SP,TR,/,TR,,Random to Samiopoula
+13:21,23,16,15.04.2016,/,/,DD,1,15,13,2,0,/,0,0,0,0,0,0,0,/,/,600,0,/,NEG,NA,/,SP,"TR,D",/,TR,,Random to Samiopoula
+6:59,27,17,19.04.2016,37.771663,27.062313,TT,1,2,2,0,0,/,1,0,0,1,0,0,0,NA,/,40,270,/,NEU,NA,/,SP,TR,1BR,TR,,Random to Samiopoula
+7:05,27,17,19.04.2016,/,/,TT,1,2,2,0,0,/,0,0,0,0,0,0,0,/,/,60,300,/,NEU,NA,/,SP,TR,/,TR,,Random to Samiopoula
+7:10,27,17,19.04.2016,/,/,TT,1,2,2,0,0,/,0,0,0,0,0,0,0,/,/,100,330,/,NEU,NA,/,SP,TR,/,TR,,Random to Samiopoula
+17:25,27,18,19.04.2016,37.621575,26.904675,DD,1,4,4,0,0,/,1,0,0,0,0,0,1,1TC,NA,100,30,/,NEU,NA,/,FR,TR,2L,TR,,Random to Samiopoula
+17:30,27,18,19.04.2016,/,/,DD,1,4,4,0,0,/,1,0,0,0,0,0,1,1TC,NA,30,270,/,NEG,NA,/,SP,TR,/,TR,,Random to Samiopoula
+6:22,30,19,20.04.2016,37.719152,27.073321,UND,1,1,1,0,0,/,2,0,0,0,1,0,1,"1TF,1FBM",NA,300,90,/,NEG,NA,/,AL,TR,1L,TR,,Random to NE Samos
+8:37,30,20,20.04.2016,NO GPS,NO GPS,TT,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,400,30,/,NEU,NA,/,SP,Mi,"1L,8Br",Mi,DATA TAKEN FROM GPS- ND FOR MARINE VESSELS,Random to NE Samos
+3:42,30,20,20.04.2016,/,/,TT,1,8,7,1,0,/,NA,NA,NA,NA,NA,NA,NA,/,/,100,90,/,NEU,NA,/,UND,UND,/,Mi,DATA TAKEN FROM GPS- ND FOR MARINE VESSELS,Random to NE Samos
+8:47,30,20,20.04.2016,/,/,TT,1,8,7,1,0,/,NA,NA,NA,NA,NA,NA,NA,/,/,50,0,/,NEU,NA,/,UND,UND,/,Mi,DATA TAKEN FROM GPS- ND FOR MARINE VESSELS,Random to NE Samos
+8:55,30,20,20.04.2016,/,/,TT,1,8,7,1,0,/,NA,NA,NA,NA,NA,NA,NA,/,/,300,30,/,NEU,NA,/,UND,UND,/,TR,DATA TAKEN FROM GPS- ND FOR MARINE VESSELS,Random to NE Samos
+9:00,30,20,20.04.2016,/,/,TT,1,8,7,1,0,/,NA,NA,NA,NA,NA,NA,NA,/,/,400,30,/,NEU,NA,/,UND,UND,/,TR,DATA TAKEN FROM GPS- ND FOR MARINE VESSELS,Random to NE Samos
+11:15,33,21,22.04.2016,37.63346,26.919202,DD,1,1,1,0,0,/,0,0,0,0,0,0,0,/,/,200,210,/,NEG,NA,/,AL,TR,/,TR,,Random to Samiopoula
+14:23,34,22,08.05.2016,37.672684,26.725581,TT,1,12,11,1,0,/,1,0,0,0,0,0,1,1TF,NA,400,210,/,NEU,NA,/,SP,SU-F,"2SH,1B",F,,Random to SW Samos
+14:28,34,22,08.05.2016,/,/,TT,1,12,11,1,0,/,1,0,0,0,0,0,1,1TF,NA,100,30,/,POS,NA,/,FR,TR,/,TR,,Random to SW Samos
+14:33,34,22,08.05.2016,/,/,TT,1,12,11,1,0,/,1,0,0,0,0,0,1,1TF,NA,0,0,/,POS,NA,/,SP,TR,"1B,1BR",TR,,Random to SW Samos
+14:38,34,22,08.05.2016,/,/,TT,1,12,11,1,0,/,1,0,0,0,0,0,1,1TF,NA,100,330,/,NEU,NA,/,SP,TR,4L,TR,,Random to SW Samos
+14:43,34,22,08.05.2016,/,/,TT,1,12,11,1,0,/,1,0,0,0,0,0,1,1TF,NA,100,90,/,NEU,NA,/,SP,TR,1L,TR,,Random to SW Samos
+14:48,34,22,08.05.2016,/,/,TT,1,12,11,1,0,/,1,0,0,0,0,0,1,1TF,NA,100,270,/,POS,NA,/,SP,TR,/,TR,,Random to SW Samos
+14:53,34,22,08.05.2016,/,/,TT,1,12,11,1,0,/,1,0,0,0,0,0,1,1TF,NA,100,270,/,POS,NA,/,SP,TR,/,TR,,Random to SW Samos
+14:58,34,22,08.05.2016,/,/,TT,1,12,11,1,0,/,1,0,0,0,0,0,1,1TF,NA,200,300,/,NEU,NA,/,SP,TR,5L,TR,,Random to SW Samos
+15:03,34,22,08.05.2016,/,/,TT,1,12,11,1,0,/,1,0,0,0,0,0,1,1TF,NA,500,60,/,NEG,f,/,FR,TR,/,TR,,Random to SW Samos
+15:26,34,23,08.05.2016,37.658889,26.73814,TT,1,8,8,0,0,/,1,0,0,0,0,0,1,1TM,NA,300,60,/,NEU,NA,/,SP,TR,1L,TR,,Random to SW Samos
+15:28,34,24,08.05.2016,37.666779,26.738362,DD,1,1,1,0,0,/,1,0,0,0,0,0,1,1TM,NA,150,90,/,NEU,NA,NA,AL,D,1L,TR,,Random to Samiopoula
+15:31,34,24,08.05.2016,/,/,TT,1,8,8,0,0,/,1,0,0,0,0,0,1,1TM,NA,50,90,/,NEU,NA,NA,SP,"TR,D",/,TR,,Random to Samiopoula
+15:36,34,24,08.05.2016,/,/,DD/TT,1,9,9,0,0,/,1,0,0,0,0,0,1,1TM,NA,150,90,/,NEU,NA,/,LI,So,10L,TR,,Random to Samiopoula
+15:41,34,24,08.05.2016,/,/,TT,1,8,8,0,0,/,1,0,0,0,0,0,1,1TM,NA,100,60,/,NEU,NA,/,SP,"TR,D",2L,TR,,Random to Samiopoula
+15:52,34,24,08.05.2016,/,/,TT,1,8,8,0,0,/,1,0,0,0,0,0,1,1TM,NA,500,300,/,NEU,NA,/,FR,TR,10L,TR,,Random to Samiopoula
+15:58,34,24,08.05.2016,/,/,TT,1,8,8,0,0,/,1,0,0,0,0,0,1,1TF,NA,50,120,/,NEU,NA,NA,SP,D,/,TR,,Random to Samiopoula
+16:49,35,25,17.05.2016,37.669011,26.94292,DD,1,10,10,0,0,/,0,0,0,0,0,0,0,/,/,40,90,/,NEU,NA,/,SP,TR,1L,TR,,Random to Samiopoula
+16:54,35,25,17.05.2016,/,/,DD,1,10,10,0,0,/,0,0,0,0,0,0,0,/,/,100,270,/,POS,NA,/,SP,Mi,6L,Mi,,Random to Samiopoula
+16:59,35,25,17.05.2016,/,/,DD,1,10,10,0,0,/,0,0,0,0,0,0,0,/,/,150,90,/,NEU,NA,/,SP,So,/,So,,Random to Samiopoula
+17:04,35,25,17.05.2016,/,/,DD,1,10,10,0,0,/,0,0,0,0,0,0,0,/,/,50,90,/,POS,NA,NA,SP,"TR,D",/,TR,,Random to Samiopoula
+17:09,35,25,17.05.2016,/,/,DD,1,10,10,0,0,/,0,0,0,0,0,0,0,/,/,100,210,/,NEU,NA,NA,SP,"TR,D",/,TR,,Random to Samiopoula
+17:41,36,26,20.05.2016,37.668219,26.955197,DD,1,12,12,0,0,/,0,0,0,0,0,0,0,/,/,400,30,/,POS,NA,/,SP,TR,6L,TR,,Random to Samiopoula
+17:46,36,26,20.05.2016,/,/,DD,1,12,12,0,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,NA,/,LI,S,BR,S,,Random to Samiopoula
+16:48,37,27,24.05.2016,37.434112,26.940815,DD,1,5,5,0,0,/,0,0,0,0,0,0,0,/,/,40,90,/,NEU,f,/,LI,TR,3FL,TR,,Ferry to Lipsi
+18:08,40,28,02.06.2016,37.473191,26.782892,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,200,90,/,POS,NA,/,SP,Mi,"1BR,1FL",Mi,,Random to Lipsi
+18:14,40,28,02.06.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,40,60,/,NEG,NA,/,SP,"S,D",3FL,S,,Random to Lipsi
+18:19,40,28,02.06.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,80,30,/,NEU,NA,/,SP,Re,1FL,Re,,Random to Lipsi
+17:32,41,29,06.06.2016,37.675906,26.96965,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,NA,/,SP,S,1BR,S,,Random to SE Samos
+17:38,41,29,06.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,100,330,/,POS,NA,/,SP,SU-F,4B,F,,Random to SE Samos
+17:45,41,29,06.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,50,330,/,POS,NA,/,SP,SU-F,2B,F,,Random to SE Samos
+17:51,41,29,06.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,300,30,/,NEU,NA,/,SP,SU-F,/,F,,Random to SE Samos
+17:59,41,29,06.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,NA,/,SP,SU-F,6B,F,,Random to SE Samos
+18:04,41,29,06.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,30,120,/,POS,NA,/,SP,SU-F,"1BR,5L",F,,Random to SE Samos
+18:09,41,29,06.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,10,330,/,POS,NA,/,SP,S,2L,S,,Random to SE Samos
+18:14,41,29,06.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,10,330,/,POS,NA,/,SP,SU-F,/,F,,Random to SE Samos
+18:20,41,29,06.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,100,330,/,NEU,NA,/,SP,SU-F,"2FL,1BR",F,,Random to SE Samos
+18:48,41,30,06.06.2016,/,/,DD,1,10,10,0,0,/,0,0,0,0,0,0,0,/,/,50,330,/,POS,NA,/,SP,SU-F,"1BR,5L",F,,Random to SE Samos
+16:31,42,31,11.06.2016,NO GPS,NO GPS,DD,1,5,5,0,0,/,0,0,0,0,0,0,0,/,/,200,270,/,POS,NA,/,FR,TR,/,TR,,Random to SE Samos
+16:40,42,32,11.06.2016,NO GPS,NO GPS,DD,1,12,12,0,0,/,1,1,0,0,0,0,0,1SF,NA,10,330,/,POS,NA,/,SP,TR,/,TR,,Random to SE Samos
+16:47,42,32,11.06.2016,/,/,DD,1,12,12,0,0,/,1,1,0,0,0,0,0,1SF,NA,50,60,/,NEU,NA,/,SP,SU-F,/,F,,Random to SE Samos
+16:52,42,32,11.06.2016,/,/,DD,1,12,12,0,0,/,1,1,0,0,0,0,0,1SF,NA,20,90,/,NEU,NA,/,SP,SU-F,/,F,,Random to SE Samos
+16:58,42,32,11.06.2016,/,/,DD,1,12,12,0,0,/,1,1,0,0,0,0,0,1SF,NA,30,90,/,NEU,NA,/,SP,Re,/,Re,,Random to SE Samos
+18:19,42,33,11.06.2016,NO GPS,NO GPS,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,500,180,/,POS,NA,/,SP,SU-F,/,F,,Random to SE Samos
+18:24,42,33,11.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,NA,/,SP,SU-F,/,F,,Random to SE Samos
+18:29,42,33,11.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,NA,/,SP,SU-F,/,F,,Random to SE Samos
+18:34,42,33,11.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,NA,/,SP,SU-F,/,F,,Random to SE Samos
+18:39,42,33,11.06.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,0,0,/,NEU,NA,/,SP,SU-F,/,F,,Random to SE Samos
+7:45,45,34,28.06.2016,37.629211,26.893961,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,100,60,/,NEU,NA,/,UND,SU-F,/,F,,Random to Marathokampos Bay
+7:50,45,34,28.06.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,30,270,/,NEU,NA,/,SP,SU-F,/,F,,Random to Marathokampos Bay
+7:55,45,34,28.06.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,70,330,/,NEU,NA,/,SP,SU-F,/,F,,Random to Marathokampos Bay
+9:22,45,35,28.06.2016,NO GPS,NO GPS,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,100,300,/,NEU,NA,/,SP,TR,1L,TR,,Random to Marathokampos Bay
+9:27,45,35,28.06.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,40,30,/,NEU,NA,/,SP,TR,/,TR,,Random to Marathokampos Bay
+9:32,45,35,28.06.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,2,0,/,POS,NA,/,SP,TR,/,TR,,Random to Marathokampos Bay
+9:37,45,35,28.06.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,0,330,/,POS,NA,/,SP,TR,1L,TR,,Random to Marathokampos Bay
+9:42,45,35,28.06.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,0,330,/,POS,NA,/,SP,TR,/,TR,,Random to Marathokampos Bay
+9:47,45,35,28.06.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,0,30,/,POS,NA,/,SP,TR,/,TR,,Random to Marathokampos Bay
+9:52,45,35,28.06.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,30,330,/,POS,NA,/,SP,TR,3L,TR,,Random to Marathokampos Bay
+9:57,45,35,28.06.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,70,30,/,NEU,NA,/,SP,SU-F,/,F,,Random to Marathokampos Bay
+10:02,45,35,28.06.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,150,300,/,NEU,NA,/,SP,SU-F,/,F,,Random to Marathokampos Bay
+10:07,45,35,28.06.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,NA,/,LI,SU-F,/,F,,Random to Marathokampos Bay
+11:40,45,36,28.06.2016,37.63808,26.794265,DD,1,6,6,0,0,/,0,0,0,0,0,0,0,/,/,100,90,/,NEU,NA,/,SP,SU-F,/,F,,Random to Marathokampos Bay
+11:45,45,36,28.06.2016,/,/,DD,1,6,6,0,0,/,0,0,0,0,0,0,0,/,/,30,30,/,POS,NA,/,LI,SU-F,/,F,,Random to Marathokampos Bay
+12:15,47,37,11.07.2016,37.638972,26.910453,DD,1,3,3,0,0,/,0,0,0,0,0,0,0,/,/,15,30,/,NEG,NA,/,UND,TR,/,TR,,Random to Marathokampos Bay
+12:28,47,37,11.07.2016,/,/,DD,1,3,3,0,0,/,1,0,0,0,0,1,0,1FeM,NA,10,90,/,POS,NA,NA,UND,"D,TR",/,TR,,Random to Marathokampos Bay
+12:35,47,37,11.07.2016,/,/,DD,1,3,3,0,0,/,1,0,0,0,0,1,0,1FeM,NA,5,60,/,POS,NA,/,SP,SU-F,/,F,,Random to Marathokampos Bay
+7:25,49,38,13.07.2016,37.66845,26.929111,DD,1,10,10,0,0,/,1,0,0,0,0,0,1,1TC,NA,20,0,/,NEU,NA,/,SP,SU-F,/,F,,Random to Marathokampos Bay
+9:26,49,39,13.07.2016,NO GPS,NO GPS,DD,1,6,6,0,0,/,0,0,0,0,0,0,0,/,/,3,0,/,POS,NA,/,SP,TR,BR,TR,,Random to Marathokampos Bay
+9:31,49,39,13.07.2016,/,/,DD,1,6,6,0,0,/,0,0,0,0,0,0,0,/,/,1,270,/,POS,NA,/,SP,TR,BR,TR,,Random to Marathokampos Bay
+9:36,49,39,13.07.2016,/,/,DD,1,6,6,0,0,/,0,0,0,0,0,0,0,/,/,2,0,/,POS,NA,/,SP,TR,BR,TR,,Random to Marathokampos Bay
+9:41,49,39,13.07.2016,/,/,DD,1,6,6,0,0,/,0,0,0,0,0,0,0,/,/,5,60,/,NEG,NA,NA,SP,"TR,D",/,TR,,Random to Marathokampos Bay
+12:28,50,40,15.07.2016,37.689882,26.643156,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,100,30,/,POS,NA,NA,SP,"TR,D",/,TR,,Random to Marathokampos Bay
+12:33,50,40,15.07.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,100,0,/,NEU,NA,/,SP,TR,2L,TR,,Random to Marathokampos Bay
+12:38,50,40,15.07.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,10,60,/,POS,NA,NA,SP,"TR,D",/,TR,,Random to Marathokampos Bay
+12:43,50,40,15.07.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,30,210,/,NEG,NA,/,SP,TR,/,TR,,Random to Marathokampos Bay
+15:51,50,41,15.07.2016,37.637654,26.880032,TT,1,9,9,0,0,/,1,1,0,0,0,0,0,1SC,NA,40,60,/,NEU,NA,/,SP,TR,/,TR,,Random to Marathokampos Bay
+15:56,50,41,15.07.2016,/,/,TT,1,9,9,0,0,/,0,0,0,0,0,0,0,/,/,40,180,/,NEU,NA,/,SP,"TR,D",1TS,TR,,Random to Marathokampos Bay
+16:04,50,41,15.07.2016,/,/,TT,1,9,9,0,0,/,0,0,0,0,0,0,0,/,/,50,180,/,NEU,NA,/,SP,"TR,D",/,TR,,Random to Marathokampos Bay
+9:46,51,42,17.07.2016,37.658927,26.913642,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,20,300,/,NEU,NA,/,SP,TR,/,TR,,Random to Aspros Kavos
+9:51,51,42,17.07.2016,/,/,DD,1,8,8,0,0,/,1,0,0,0,0,0,1,1TF,NA,20,150,/,NEU,NA,/,SP,TR,/,TR,,Random to Aspros Kavos
+9:56,51,42,17.07.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,40,330,/,NEU,NA,NA,SP,"TR,D",BU,TR,,Random to Aspros Kavos
+10:01,51,42,17.07.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,20,60,/,NEU,NA,NA,SP,"TR,D",/,TR,,Random to Aspros Kavos
+10:06,51,42,17.07.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,20,180,/,NEU,NA,/,SP,TR,1TO,TR,,Random to Aspros Kavos
+10:11,51,42,17.07.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,15,240,/,POS,NA,/,SP,TR,BR,TR,,Random to Aspros Kavos
+10:16,51,42,17.07.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,40,30,/,NEU,NA,/,SP,TR,/,TR,,Random to Aspros Kavos
+10:21,51,42,17.07.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,30,90,/,NEU,NA,/,SP,TR,/,TR,,Random to Aspros Kavos
+10:26,51,42,17.07.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,30,330,/,NEU,NA,/,SP,TR,/,TR,,Random to Aspros Kavos
+6:51,53,43,25.07.2016,37.664317,26.949278,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,0,330,/,POS,NA,/,SP,TR,/,TR,,Random to Aspros Kavos
+6:56,53,43,25.07.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,0,60,/,POS,NA,/,SP,TR,/,TR,,Random to Aspros Kavos
+7:01,53,43,25.07.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,20,0,/,POS,NA,/,SP,TR,BR,TR,,Random to Aspros Kavos
+10:39,55,44,02.08.2016,37.628918,26.858339,UND,1,5,5,0,0,/,2,1,0,1,0,0,0,"1HSBC,1SM",NA,100,60,/,NEU,NA,/,UND,UND,/,UND,,Random to Aspros Kavos
+7:38,57,45,08.08.2016,37.625897,26.909754,DD,1,2,2,0,0,/,0,0,0,0,0,0,0,/,/,5,0,/,POS,NA,/,UND,UND,BR,UND,,Random to Samiopoula
+11:20,58,46,11.08.2016,37.68612,26.681863,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,0,90,/,POS,f,/,FR,TR,BR,TR,,Random to Marathokampos Bay
+13:32,58,46,11.08.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,200,90,/,NEU,f,/,SP,TR,/,TR,,Random to Marathokampos Bay
+13:37,58,46,11.08.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,20,60,/,POS,f,/,SP,TR,BR,TR,,Random to Marathokampos Bay
+13:42,58,46,11.08.2016,/,/,DD,1,8,7,1,0,/,0,0,0,0,0,0,0,/,/,200,270,/,NEG,f,/,SP,TR,/,TR,,Random to Marathokampos Bay
+14:46,59,47,19.08.2016,37.678938,26.971742,UND,1,2,2,0,0,/,0,0,0,0,0,0,0,/,/,100,300,/,NEU,/,/,SP,UND,/,UND,,Random to Pythagorio Bay
+14:24,60,48,22.08.2016,37.662035,26.95036,DD,1,4,4,0,0,/,1,1,0,0,0,0,0,/,/,700,270,/,NEU,/,/,SP,UND,/,UND,,Random to Aspros Kavos
+14:29,60,48,22.08.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,50,330,/,POS,/,/,SP,TR,/,TR,,Random to Aspros Kavos
+14:34,60,48,22.08.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,30,330,/,NEU,/,/,SP,"TR,D",/,TR,,Random to Aspros Kavos
+14:39,60,48,22.08.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,10,60,/,NEG,/,/,SP,"TR,D",/,TR,,Random to Aspros Kavos
+14:45,60,48,22.08.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,700,30,/,NEU,/,/,SP,So,2L,TR,,Random to Aspros Kavos
+14:50,60,48,22.08.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,300,60,/,NEG,/,/,SP,TR,/,TR,,Random to Aspros Kavos
+14:55,60,48,22.08.2016,/,/,DD,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,70,300,/,NEG,/,/,SP,TR,/,TR,,Random to Aspros Kavos
+9:10,61,49,27.08.2016,37.621053,26.895084,DD,1,15,15,0,0,/,0,0,0,0,0,0,0,/,/,600,0,/,NEU,/,/,SP,SU-F,1B,F,,Random to Samiopoula
+9:20,61,49,27.08.2016,/,/,DD,1,15,15,0,0,/,0,0,0,0,0,0,0,/,/,100,150,/,NEU,/,/,SP,SU-F,/,F,,Random to Samiopoula
+9:30,61,49,27.08.2016,/,/,DD,1,15,15,0,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,/,/,SP,TR,"BR,1L",TR,,Random to Samiopoula
+9:40,61,49,27.08.2016,/,/,DD,1,15,15,0,0,/,0,0,0,0,0,0,0,/,/,0,0,/,POS,/,/,SP,TR,1L,TR,,Random to Samiopoula
+9:59,64,50,06.09.2016,37.684572,26.663117,DD,1,17,16,1,0,/,0,0,0,0,0,0,0,/,/,50,270,/,POS,/,NA,SP,"TR,D",/,,,Random to Samiopoula
+10:04,64,50,06.09.2016,/,/,DD,1,17,16,1,0,/,0,0,0,0,0,0,0,/,/,100,210,/,NEU,/,NA,SP,"TR,D",/,,,Random to Samiopoula
+10:09,64,50,06.09.2016,/,/,DD,1,17,16,1,0,/,0,0,0,0,0,0,0,/,/,20,90,/,NEU,/,/,SP,TR,/,,,Random to Samiopoula
+10:14,64,50,06.09.2016,/,/,DD,1,17,16,1,0,/,1,0,0,0,0,0,1,1TF,NA,100,120,/,NEU,/,NA,SP,"TR,D",/,,,Random to Samiopoula
+10:19,64,50,06.09.2016,/,/,DD,1,17,16,1,0,/,1,0,0,1,0,0,0,1HSBM,NA,150,330,/,NEU,/,/,SP,TR,"1TS,BR",,,Random to Samiopoula
+10:24,64,50,06.09.2016,/,/,DD,1,17,16,1,0,/,0,0,0,0,0,0,0,/,/,100,0,/,NEG,/,/,SP,TR,"2L,BR",,,Random to Samiopoula
+10:29,64,50,06.09.2016,/,/,DD,1,17,16,1,0,/,0,0,0,0,0,0,0,/,/,100,30,/,NEU,f,/,LI,TR,/,,,Random to Samiopoula
+10:34,64,50,06.09.2016,/,/,DD,1,17,16,1,0,/,1,0,0,1,0,0,0,1HSBM,NA,100,60,/,NEU,f,/,LI,TR,/,,,Random to Samiopoula
+13:32,67,51,18.09.2016,37.63657,26.897009,TT,1,1,1,0,0,/,1,1,0,0,0,0,0,1SF,/,200,60,/,NEG,NA,NA,AL,TR,/,TR,,Random to Marathokampos Bay
+13:43,67,51,18.09.2016,/,/,TT,1,1,1,0,0,/,0,0,0,0,0,0,0,/,/,100,30,/,NEU,NA,NA,AL,TR,/,TR,,Random to Marathokampos Bay
+14:04,67,52,18.09.2016,37.63657,26.897009,UND,1,6,6,0,0,/,0,0,0,0,0,0,0,/,/,300,330,/,NEU,NA,NA,SP,TR,/,TR,,Random to Marathokampos Bay
+07:41,68,53,25.09.2016,37.669142,26.966539,UND,1,5,5,0,0,/,0,0,0,0,0,0,0,/,/,100,330,/,NEG,NA,NA,FR,TR,/,TR,,Random to Aspros Kavos
+07:47,68,53,25.09.2016,/,/,UND,1,5,5,0,0,/,3,0,0,0,0,0,3,3TF,/,200,330,/,NEG,NA,NA,FR,TR,/,TR,,Random to Aspros Kavos
+13:31,70,54,28.09.2016,37.492246,26.926471,TT,1,2,2,0,0,/,1,0,0,0,0,1,0,1FeC,/,50,348,/,POS,f,NA,AL,TR,L,TR,,Ferry to Lipsi to Samos
+17:44,72,55,05.10.2016,37.628908,26.877979,DD,1,10,10,0,0,/,0,0,0,0,0,0,0,/,/,400,163,/,NEU,f,NA,SP,TR,2L,TR,,Random to Aspros Kavos
+17:51,72,55,05.10.2016,/,/,DD,1,10,10,0,0,/,0,0,0,0,0,0,0,/,/,800,161,/,NEU,f,NA,LI,TR,1L,TR,,Random to Aspros Kavos
+13:13,76,56,21.10.2016,37.640528,26.921081,TT,1,18,15,3,0,/,0,0,0,0,0,0,0,/,/,400,188,/,NEU,NA,NA,SP,TR,1L,TR,1: 8 dolphins,Random to Aspros Kavos
+13:16,76,56,21.10.2016,/,/,TT,2,18,15,3,0,/,0,0,0,0,0,0,0,/,/,150,12,/,NEU,NA,NA,FR,D,/,TR,2: 2 dolphins,Random to Aspros Kavos
+13:19,76,56,21.10.2016,/,/,TT,1,18,15,3,0,/,1,0,0,1,0,0,0,1HSBF,/,800,ND,/,NEU,NA,NA,UND,TR,/,TR,1: 8 dolphins,Random to Aspros Kavos
+13:21,76,56,21.10.2016,/,/,TT,2,18,15,3,0,/,1,0,0,0,0,0,1,1TF,/,50,42,/,NEG,NA,NA,SP,TR,/,TR,2 :4 dolphins,Random to Aspros Kavos
+13:24,76,56,21.10.2016,/,/,TT,1,18,15,3,0,/,0,0,0,0,0,0,0,/,/,800,228,/,NEU,NA,NA,SP,TR,/,TR,1: 4 dolphins,Random to Aspros Kavos
+13:29,76,56,21.10.2016,/,/,TT,1a,18,15,3,0,/,0,0,0,0,0,0,0,/,/,25,65,/,POS,NA,NA,SP,TR,1L,TR,1A: 7 dolphins,Random to Aspros Kavos
+13:30,76,56,21.10.2016,/,/,TT,1b,18,15,3,0,/,0,0,0,0,0,0,0,/,/,800,200,/,NEU,NA,NA,SP,D,/,TR,1B: 6 dolphins,Random to Aspros Kavos
+13:34,76,56,21.10.2016,/,/,TT,1c,18,15,3,0,/,0,0,0,0,0,0,0,/,/,75,345,/,NEU,NA,NA,FR,TR,/,TR,1C:2 dolphins,Random to Aspros Kavos
+13:34,76,56,21.10.2016,/,/,TT,1a,18,15,3,0,/,0,0,0,0,0,0,0,/,/,100,230,/,NEU,NA,NA,LI,TR,/,TR,1A: 4 dolphins,Random to Aspros Kavos
+13:39,76,56,21.10.2016,/,/,TT,1a,18,15,3,0,/,0,0,0,0,0,0,0,/,/,75,80,/,NEG,NA,NA,FR,TR,/,TR,1A: 4 dolphins,Random to Aspros Kavos
+13:40,76,56,21.10.2016,/,/,TT,1a+1c,18,15,3,0,/,0,0,0,0,0,0,0,/,/,50,55,/,POS,NA,NA,SP,Mi,/,TR,1A+C: 7 dolphins,Random to Aspros Kavos
+13:46,76,56,21.10.2016,/,/,TT,1a+1c,18,15,3,0,/,0,0,0,0,0,0,0,/,/,75,95,/,NEG,NA,NA,SP,TR,/,TR,1A+C: 18 dolphins,Random to Aspros Kavos
+13:51,76,56,21.10.2016,/,/,TT,1a+1c,18,15,3,0,/,0,0,0,0,0,0,0,/,/,100,255,/,NEG,NA,NA,SP,TR,1L,TR,1A+C: 18 dolphins,Random to Aspros Kavos
+13:56,76,56,21.10.2016,/,/,TT,1a+1c,18,15,3,0,/,0,0,0,0,0,0,0,/,/,700,225,/,NEG,f,NA,FR,TR,/,TR,1A+C: 18 dolphins,Random to Aspros Kavos
+14:01,76,56,21.10.2016,/,/,TT,1a+1c,18,15,3,0,/,0,0,0,0,0,0,0,/,/,500,220,/,NEG,f,NA,FR,TR,/,TR,1A+C: 18 dolphins,Random to Aspros Kavos
+14:06,76,56,21.10.2016,/,/,TT,1a+1c,18,15,3,0,/,0,0,0,0,0,0,0,/,/,500,218,/,NEG,f,NA,FR,TR,/,TR,1A+C: 18 dolphins,Random to Aspros Kavos
+14:11,76,56,21.10.2016,/,/,TT,1a+1c,18,15,3,0,/,0,0,0,0,0,0,0,/,/,300,230,/,NEG,NA,NA,FR,TR,/,TR,1A+C: 18 dolphins,Random to Aspros Kavos
+12:45,77,57,23.10.2016,37.627381,26.86897,UND,1,6,6,0,0,/,0,0,0,0,0,0,0,/,/,100,130,/,NEG,NA,NA,SP,"TR,D",/,TR,,Random to Marathokampos Bay
+13:31,77,57,23.10.2016,/,/,UND,2,6,6,0,0,/,1,1,0,0,0,0,0,"1SM,",/,800,146,/,NEU,NA,NA,UND,TR,4L,TR,,Random to Marathokampos Bay
+13:36,77,57,23.10.2016,/,/,UND,2,6,6,0,0,/,2,0,0,0,1,0,1,"1FBF,1TF",/,500,152,/,NEU,NA,NA,SP,TR,4L,TR,,Random to Marathokampos Bay
+13:41,77,57,23.10.2016,/,/,UND,2,6,6,0,0,/,2,1,0,0,0,0,1,"1SF,1TF",/,75,75,/,NEU,NA,NA,UND,D,/,TR,,Random to Marathokampos Bay
+16:20,82,58,04.11.2016,37.651908,26.925499,TT,1,8,8,0,0,/,1,0,0,0,0,0,1,1TF,/,200,345,/,NEU,NA,NA,SP,D,/,F,,Random to Pythagorio Bay
+16:25,82,58,04.11.2016,/,/,TT,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,75,230,/,NEG,NA,NA,SP,D,/,F,,Random to Pythagorio Bay
+16:30,82,58,04.11.2016,/,/,TT,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,100,105,/,NEU,NA,NA,SP,D,1L,F,,Random to Pythagorio Bay
+16:35,82,58,04.11.2016,/,/,TT,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,100,140,/,NEU,NA,NA,SP,D,1TS,F,,Random to Pythagorio Bay
+16:40,82,58,04.11.2016,/,/,TT,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,100,110,/,NEU,NA,NA,SP,D,1L,F,,Random to Pythagorio Bay
+08:49,86,59,24.11.2016,37.663875,26.922036,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,900,110,/,NEU,NA,NA,UND,UND,1L,TR,,Random to Samiopoula
+08:54,86,59,24.11.2016,/,/,DD,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,0,190,/,POS,NA,NA,SP,BR,/,TR,,Random to Samiopoula
+10:19,86,60,24.11.2016,37.63305,26.817061,UND,1,8,8,0,0,/,0,0,0,0,0,0,0,/,/,200,174,/,NEG,NA,NA,FR,UND,2L,TR,,Random to Samiopoula
+15:59,87,61,25.11.2016,37.65693,26.9265,DD,1,35,33,2,0,/,0,0,0,0,0,0,0,/,/,200,45,/,NEU,NA,NA,SP,D,,F,1 : 16 dolphins,Random to Pythagorio Bay
+16:04,87,61,25.11.2016,/,/,DD,1,35,33,2,0,/,1,0,0,0,1,0,0,1FBM,/,50,365,/,NEU,NA,NA,SP,SU-F,1SH,F,1 : 35 dolphins,Random to Pythagorio Bay
+16:09,87,61,25.11.2016,/,/,DD,1,35,33,2,0,/,1,0,0,0,1,0,0,1FBM,/,50,280,/,NEU,NA,NA,SP,D,,F,1 : 35 dolphins,Random to Pythagorio Bay
+16:14,87,61,25.11.2016,/,/,DD,1,35,33,2,0,/,2,0,0,0,2,0,0,1FBF,/,500,250,/,NEU,NA,NA,SP,SU-F,2L,F,1 : 35 dolphins,Random to Pythagorio Bay
+16:17,87,61,25.11.2016,/,/,DD,1a,35,33,2,0,/,1,0,0,0,1,0,0,1FBF,/,600,340,/,NEU,NA,NA,SP,D,,F,1A: 5 dolphins,Random to Pythagorio Bay
+16:20,87,61,25.11.2016,/,/,DD,1b,35,33,2,0,/,1,0,0,0,1,0,0,1FBF,/,1000,240,/,NEU,NA,NA,SP,T,,F,1B: 8 dolphins,Random to Pythagorio Bay
+16:27,87,61,25.11.2016,/,/,DD,1a,35,33,2,0,/,5,0,0,0,5,0,0,"2FBM,3FBF",/,400,327,/,NEU,NA,NA,TI,D,,F,1A: 8 dolphins,Random to Pythagorio Bay
+16:32,87,61,25.11.2016,/,/,DD,1a,35,33,2,0,/,4,0,0,0,4,0,0,4FBM,/,200,378,/,NEU,NA,NA,SP,D,1L,F,1A: 8 dolphins,Random to Pythagorio Bay
+13:26,88,62,06.12.2016,37.63417,26.867662,TT,1,1,1,0,0,/,1,0,0,0,1,0,0,1FBM,/,150,328,/,UND,NA,NA,AL,UND,,F,,Random to Samiopoula
+14:21,92,1,30.01.2017,NO GPS,NO GPS,DD,1,2,2,0,0,/,0,0,0,0,0,0,0,/,/,0,42,/,POS,NA,/,FR,S,BR,S,,Random to Samiopoula
+14:26,92,1,30.01.2017,/,/,DD,1,2,2,0,0,/,0,0,0,0,0,0,0,/,/,0,42,/,POS,NA,/,FR,S,BR,S,,Random to Samiopoula
+14:31,92,1,30.01.2017,/,/,DD,1,2,2,0,0,/,0,0,0,0,0,0,0,/,/,20,35,/,NEU,NA,/,FR,TR,/,TR,,Random to Samiopoula
+15:03,92,2,30.01.2017,/,/,DD,1,1,1,0,0,/,1,0,0,0,1,0,0,FBM,NA,50,25,/,NEU,NA,/,AL,TR,L,TR,,Random to Samiopoula
+13:49,96,3,10.02.2017,37.65571,26.953632,DD,1,2,2,0,0,/,2,0,0,0,2,0,0,2FBM,NA,50,110,/,NEU,NA,/,FR,TR,/,TR,,Random to Samiopoula
+16:26,96,4,10.02.2017,37.658056,26.914444,DD,1,3,3,0,0,/,0,0,0,0,0,0,0,/,/,100,85,/,POS,NA,/,FR,TR,3Br,TR,,Random to Samiopoula
+16:31,96,4,10.02.2017,/,/,DD,1,3,3,0,0,/,0,0,0,0,0,0,0,/,/,150,274,/,NEU,NA,NA,TI,D,L,TR,,Random to Samiopoula
+16:55,98,5,17.02.2017,37.548262,26.854655,DD,1,3,3,0,0,/,0,0,0,0,0,0,0,/,/,5,268,/,POS,NA,/,LI,TR,/,TR,,Random to Lipsi
+14:06,103,6,03.03.2017,37.634024,26.882808,DD,1,5,4,1,0,/,0,0,0,0,0,0,0,/,/,5,198,/,POS,NA,/,FR,TR,/,TR,,Random to Lipsi
+13:54,105,7,06.03.2017,37.714353,26.377477,TT,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,5,320,/,POS,NA,/,SP,S,BR,S,,Random to Ikaria to Samos
+14:02,105,7,06.03.2017,/,/,TT,1,4,4,0,0,/,0,0,0,0,0,0,0,/,/,5,45,/,POS,NA,/,AL,S,BR,S,,Random to Ikaria to Samos
+16:05,105,8,06.03.2017,37.670897,26.653273,DD,1,1,1,0,0,/,0,0,0,0,0,0,0,/,/,20,24,/,NEU,NA,/,AL,TR,/,TR,,Random to Ikaria to Samos
+9:09,107,9,24.03.2017,37.652183,26.739085,DD,1,3,3,0,0,/,0,0,0,0,0,0,0,/,/,0,90,/,POS,NA,/,FR,TR,BR,TR,,Random to Marathokampos Bay
+9:17,107,9,24.03.2017,/,/,DD,1,3,3,0,0,/,0,0,0,0,0,0,0,/,/,50,15,/,NEU,NA,/,SP,TR,/,TR,,Random to Marathokampos Bay
+9:32,107,10,24.03.2017,37.664717,26.732233,DD,1,3,3,0,0,/,0,0,0,0,0,0,0,/,/,10,320,/,NEU,NA,/,SP,TR,/,TR,,Random to Marathokampos Bay
+9:38,107,10,24.03.2017,/,/,DD,1,3,3,0,0,/,0,0,0,0,0,0,0,/,/,20,260,/,NEU,NA,/,SP,TR,/,TR,,Random to Marathokampos Bay
+10:25,107,11,24.03.2017,37.672083,26.67895,DD,1,4,4,0,0,/,1,0,0,0,1,0,0,FBF,NA,5,70,/,POS,NA,/,SP,TR,BR,TR,,Random to Marathokampos Bay
+10:30,107,11,24.03.2017,/,/,DD,1,4,4,0,0,/,1,0,0,0,1,0,0,FBF,NA,5,350,/,POS,NA,/,SP,TR,BR,TR,,Random to Marathokampos Bay
+16:48,109,12,30.03.2017,37.627167,26.879767,UND,1,6,6,0,0,/,1,0,0,0,0,0,1,TM,NA,70,95,/,NEU,NA,/,LI,TR,L,TR,,Random to Samiopoula
+10:48,110,13,04.04.2017,37.6934,26.6691,TT,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,50,358,/,NEU,NA,/,LI,F,/,F,,Random to Samiopoula
+10:54,110,13,04.04.2017,/,/,TT,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,50,140,/,NEU,NA,/,LI,F,/,F,,Random to Marathokapos Bay
+10:59,110,13,04.04.2017,/,/,TT,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,20,170,/,NEU,NA,/,SP,F,/,F,,Random to Marathokapos Bay
+11:04,110,13,04.04.2017,/,/,TT,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,100,82,/,NEU,NA,/,LI,F,/,F,,Random to Marathokapos Bay
+11:09,110,13,04.04.2017,/,/,TT,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,60,226,/,NEU,NA,/,SP,F,L,F,,Random to Marathokapos Bay
+11:14,110,13,04.04.2017,/,/,TT,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,10,227,/,NEU,NA,/,SP,F,FU,F,,Random to Marathokapos Bay
+11:23,110,13,04.04.2017,/,/,TT,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,60,183,/,NEU,NA,/,SP,F,/,F,,Random to Marathokapos Bay
+11:32,110,13,04.04.2017,/,/,TT,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,30,114,/,NEU,NA,/,SP,F,/,F,,Random to Marathokapos Bay
+11:36,110,13,04.04.2017,/,/,TT,1,8,6,2,0,/,0,0,0,0,0,0,0,/,/,50,52,/,NEU,NA,/,SP,F,/,F,,Random to Marathokapos Bay
+15:20,113,14,12.04.2017,37.63755,26.92511666666667,DD,1,7,7,0,0,/,0,0,0,0,0,0,0,/,/,100,195,/,NEU,NA,/,LI,TR,/,TR,,Random Lipsi to Samos
+15:25,113,14,12.04.2017,/,/,DD,1,7,7,0,0,/,0,0,0,0,0,0,0,/,/,100,70,/,NEU,NA,/,FR,TR,/,TR,,Random Lipsi to Samos
+15:28,113,14,12.04.2017,/,/,DD,1,7,7,0,0,/,0,0,0,0,0,0,0,/,/,0,120,/,NEU,NA,/,FR,TR,2L,TR,,Random Lipsi to Samos
+15:30,113,14,12.04.2017,/,/,DD,1,7,7,0,0,/,0,0,0,0,0,0,0,/,/,20,45,/,NEU,NA,NA,FR,"S,D",/,TR,,Random Lipsi to Samos
+15:40,113,14,12.04.2017,/,/,DD,1,7,7,0,0,/,0,0,0,0,0,0,0,/,/,70,167,/,NEU,NA,/,LI,TR,/,TR,,Random Lipsi to Samos
+8:23,115,15,03.05.2017,37.67555,26.951583,DD,1a+1b,8,8,0,0,/,0,0,0,0,0,0,0,/,/,250,75,/,POS,s,/,SP,SU-F,BR,F,1a=6 dolphins--- 1b=2 dolphins,Random to Lipsi
+8:29,115,15,03.05.2017,/,/,DD,1a+1b,8,8,0,0,/,0,0,0,0,0,0,0,/,/,100,50,/,POS,s,/,SP,SU-F,BR,F,,Random to Lipsi
+8:35,115,15,03.05.2017,/,/,DD,1a+1b,8,8,0,0,/,0,0,0,0,0,0,0,/,/,135,30,/,NEU,s,/,FR,SU-F,/,F,1B S,Random to Lipsi
+8:45,115,15,03.05.2017,/,/,DD,1a+1b,8,8,0,0,/,0,0,0,0,0,0,0,/,/,150,60,/,NEU,s,/,FR,SU-F,/,F,1B SU-F,Random to Lipsi
+8:50,115,15,03.05.2017,/,/,DD,1a+1b,8,8,0,0,/,0,0,0,0,0,0,0,/,/,150,60,/,NEU,s,/,SP,SU-F,/,F,1B S,Random to Lipsi
+8:55,115,15,03.05.2017,/,/,DD,1a+1b,8,8,0,0,/,0,0,0,0,0,0,0,/,/,200,165,/,NEU,s,/,SP,SU-F,/,F,,Random to Lipsi
+9:00,115,15,03.05.2017,/,/,DD,1a+1b,8,8,0,0,/,0,0,0,0,0,0,0,/,/,10,100,/,NEU,s,/,SP,SU-F,/,F,,Random to Lipsi
+9:05,115,15,03.05.2017,/,/,DD,1a+1b,8,8,0,0,/,0,0,0,0,0,0,0,/,/,100,100,/,NEU,s,/,LI,SU-F,/,F,,Random to Lipsi
+12:02,115,16,03.05.2017,"37,41155","26,7713166",TT,1,2,2,0,0,/,1,0,0,0,0,0,1,1TM,1Ts,500,180,/,NEU,s,NA,FR,"D,F",/,F,Trawler -->RXN +,Random to Lipsi
+12:07,115,16,03.05.2017,/,/,TT,1,2,2,0,0,/,1,0,0,0,0,0,1,1TM,1Ts,100,120,/,NEU,s,M,FR,"D,F",BR,F,Trawler -->RXN +,Random to Lipsi
+12:16,115,16,03.05.2017,/,/,TT,1,2,2,0,0,/,1,0,0,0,0,0,1,1TM,1Ts,75,80,/,NEU,s,L,FR,"D,F",/,F,Trawler -->RXN +,Random to Lipsi
+12:24,115,16,03.05.2017,/,/,TT,1,2,2,0,0,/,5,2,0,1,0,0,2,"1TM1TF,2SM,1HSBM","1HSBf, 1Ts, 1Sm",250,20,/,NEU,s,NMU,FR,D,/,TR,"lot of boats, dolphins disappears",Random to Lipsi
+9:42,116,17,05.05.2017,"37,3185833","26,57661666",DD,1,4,4,0,0,/,1,0,0,0,0,1,0,1FeC,1Fef,40,80,/,POS,f,/,SP,TR,/,TR,,Ferry to Lipsi to Samos
+10:09,116,18,05.05.2017,"37,3263","26,57536666",DD,1,3,3,0,0,/,1,0,0,0,0,1,0,1FeM,1Fef,110,80,/,NEU,f,/,SP,TR,/,TR,,Ferry to Lipsi to Samos
+8:04,117,19,12.05.2017,37.67075,26.92668,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TC,1Tm,20,15,E,POS,M,VS,FR,F,B,F,trawler (+),Random to Samiopoula
+8:07,117,19,12.05.2017,/,,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TC,1Tm,5,,/,POS,,/,,F,"IB,B,BR",F,,Random to Samiopoula
+8:10,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TM,1Tm,0,,/,NEU,,/,,F,/,F,dolphin travelling E direction,Random to Samiopoula
+8:13,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TM,1Tm,0,,/,NEU,,/,,F,5B,F,100m for the trawler,Random to Samiopoula
+8:18,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TM,1Tm,0,,/,POS,,/,,F,IB,F,,Random to Samiopoula
+8:21,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TM,1Tm,0,,/,NEU,,M,,"F,D",3B,F,,Random to Samiopoula
+8:24,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TM,1Tm,0,,/,POS,,/,,Ss,2 IB,S,,Random to Samiopoula
+8:27,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,2,0,0,0,0,1b,1b,"1TM,1FF",1Tm/1Ff,0,,/,NEU,,S,,"Mi, D",B,Mi,Ferry fast to Wdir,Random to Samiopoula
+8:30,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,2,0,0,0,0,1b,1b,"1TM,1FF",1Tm/1Ff,0,,/,NEU,,S,,D,"IB,BU",S,Ferry fast to E dir,Random to Samiopoula
+8:33,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TF,1Ts,0,,/,POS,,/,,Ss,IB,S,pooing,Random to Samiopoula
+8:36,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TF,1Ts,0,,/,POS,,S,,F,/,F,following the trawler,Random to Samiopoula
+8:39,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TF,1Ts,0,,/,NEU,,/,,Ss,"1TL,1B",S,trawler E DIR,Random to Samiopoula
+8:42,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TF,1Ts,0,,/,NEU,,/,,F,/,F,Following the trawler,Random to Samiopoula
+8:45,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,2,0,0,0,0,0,1b,"1TC, 1FF",1Ts/1Ff,150,,/,NEU,,M,,"F, D",/,F,"following the trawler, Trawler W, ferry w dir.",Random to Samiopoula
+8:48,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TF,1Ts,,,/,NEU,,L,,"F,D",B,F,trawler W dir.,Random to Samiopoula
+8:51,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TF,1Ts,,,/,NEU,,/,,Mi,"IB,BR",Mi,trawler W dir.,Random to Samiopoula
+8:54,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1,1Ts,,,/,NEU,,S,,Re/D,/,Re,,Random to Samiopoula
+8:58,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TF,1Ts,,,/,NEU,,/,,Re,/,Re,,Random to Samiopoula
+9:01,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,0,0,0,0,1b,1TF,1Ts,,,/,NEU,,/,,Ss,"IB,BR",Ss,,Random to Samiopoula
+9:04,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,,,/,NEU,,/,,So,7Ma,So,3 pooing,Random to Samiopoula
+9:07,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,,,/,POS,,/,,Re/Mi,IB,Re,,Random to Samiopoula
+9:10,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,1m,0,0,0,0,0,1SM,1Sm,,,/,NEU,,/,,Re/Mi,/,Re,,Random to Samiopoula
+9:13,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,1m,0,0,0,0,0,/,/,,,/,,,/,,Ss,"2Ma,IB,BR",S,,Random to Samiopoula
+9:16,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,4,3m,1m,0,0,0,0,/,/,,,/,,,/,,Re,/,Re,,Random to Samiopoula
+9:19,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,4,3m,1m,0,0,0,0,"1KC, 2SM","1Sm, 1Sem, 1Ks",,,/,,,/,,Re,/,Re,1 KATAMARAN CLOSE,Random to Samiopoula
+9:22,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,4,3m,1m,0,0,0,0,"1KC, 2SM","1Sm, 1Sem, 1Ks",,,/,,,/,,Re,IB,Re,,Random to Samiopoula
+9:25,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,1m,0,0,0,0,0,1KC,1Ks,,,/,,,/,,S,BR,S,BR NEAR KATAMARAN,Random to Samiopoula
+9:28,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,1m,0,0,0,0,0,1KC,1Ks,,,/,,,/,,Ss/Re,IB,S,,Random to Samiopoula
+9:31,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,1m,0,0,0,0,0,1KC,1Ks,,,/,,,/,,Re,IB,Re,,Random to Samiopoula
+9:34,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,1m,1m,0,0,0,0,"1KC,1SeM","1Ks, 1Sem",,,/,,,/,,Re,/,Re,,Random to Samiopoula
+9:37,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,1m,0,0,0,0,0,"1KC,1SeC","1Ks, 1Sem",,,/,,,S,,"Re,D",/,Re,,Random to Samiopoula
+9:40,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,1,0,1m,0,0,0,0,1SeC,1Sem,,,/,,,/,,Re,"IB,B",Re,,Random to Samiopoula
+9:43,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,4,0,4m,0,0,0,0,"2SeC, 2SeF","1Sem,1Sm",,,/,,,/,,Re,BR,Re,,Random to Samiopoula
+9:46,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,4,0,4m,0,0,0,0,"2SeC, 2SeF","1Sem,1Sm",,,/,,,/,,Re,/,Re,,Random to Samiopoula
+9:49,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,3,0,2m,0,0,0,1b,"1SeM, 1SeF, TM","2Sem,1Ts",,,/,,,/,,Ss,IB,Ss,,Random to Samiopoula
+9:52,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,3,0,2m,0,0,0,1b,"1SeM, 1SeF, TM","2Sem,1Ts",,,/,,,/,,Re,"IB,BR",Re,,Random to Samiopoula
+9:55,117,19,12.05.2017,/,/,DD,1,5,4,1,0,Puffinus yelkouan,3,0,2m,0,0,0,1b,"1SeM, 1SeF, TM","2Sem,1Ts",,,/,,,/,,Re,/,Re,,Random to Samiopoula
+9:58,117,19,12.05.2017,37.667666,26.922666,DD,1,5,4,1,0,Puffinus yelkouan,3,0,2m,0,0,0,1b,"1SeM, 1SeF, TM","2Sem,1Ts",,,/,,,/,,Re,/,Re,STOP FOLLOW THE DOLPHINS,Random to Samiopoula
+10:30,117,/,12.05.2017,37.6495,26.953166,/,/,/,/,/,/,/,/,/,/,/,/,0,1b,1TM,1Ts,300,45,/,/,/,/,/,/,/,/,TUNA SEAGULL,Random to Samiopoula
+11:30,117,20,12.05.2017,37.641333,26.92,UND,1,4,,,0,/,1,0,0,0,0,0,1b,1TM,1Ts,400,90,W,,,,LI,Tr-F,/,Tr,DOLPHIN TRAVELLING W,Random to Samiopoula
+11:50,117,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,STOP SURVEY,Random to Samiopoula
+9:11,118,21,17.05.2017,37.661533,26.934466,DD,1,10,8,2,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,200,100,/,NEU,s,M,SP,"F,D",/,F,,Random to Samiopoula
+9:14,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,40,90,/,NEU,s,M,SP,"F,D",/,F,,Random to Samiopoula
+9:17,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,5,270,/,POS,s,S,SP,SU-F,2IB,F,,Random to Samiopoula
+9:20,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,0,0,/,NEU,s,L,SP,"D,F",/,F,,Random to Samiopoula
+9:23,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,0,0,/,POS,m,L,SP,"D,F","5IB,BR,BU",F,GROUP A=5 DOLPHINS FEEDING,Random to Samiopoula
+9:26,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,10,310,/,NEU,m,S,SP,"D,F",IB,F,,Random to Samiopoula
+9:29,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,20,45,/,NEU,s,S,SP,SU-F,/,F,,Random to Samiopoula
+9:32,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,20,280,/,NEU,m,S,FR,"D,F","1BU,1IB",F,,Random to Samiopoula
+9:35,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,1,0,1,0,0,0,0,1FM,1Fm,50,270,/,NEU,s,/,FR,SU-F,/,F,"BOAT STOP, DOLPHINS CONTINUE TO FOLLOW FISH",Random to Samiopoula
+9:50,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,70,50,/,POS,m,/,FR,So,"IB,BR,6B,1MA,1BU",So,,Random to Samiopoula
+9:53,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,2,2,0,0,0,0,0,2SF,2Fm,70,330,/,NEU,s,M,SP,"F,D","10B,1TS",F,,Random to Samiopoula
+9:56,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,2,2,0,0,0,0,0,"1SM,1SF",2Sm,5,0,/,POS,m,/,SP,S,"3IB, BR, 2B",S,,Random to Samiopoula
+9:59,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,2,2,0,0,0,0,0,"1SM,1SF",2Sm,5,50,/,POS,m,/,SP,S,"IB,BR",S,,Random to Samiopoula
+10:02,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,2,2,0,0,0,0,0,"1SM,1SF",2Sm,5,10,/,NEU,s,/,SP,"F,D",5B,F,DOLPHINS GONE,Random to Samiopoula
+10:08,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,2,2,0,0,0,0,0,2SF,2Sm,200,0,/,NEU,s,/,SP,SU-F,5B,F,BOAT STOP,Random to Samiopoula
+10:11,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,3,2,1,0,0,0,0,"2SF,2SeF","2Sm,1Sem",70,0,/,NEU,s,L,SP,"F,D",/,F,BOAT STOP,Random to Samiopoula
+10:15,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,2,1,1,0,0,0,0,"1SF,1SeM","1Sm,1Sem",200,10,/,NEU,s,L,SP,"F,D",5B,F,BOAT STOP,Random to Samiopoula
+10:21,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,1,0,1,0,0,0,0,1SeF,1SeF,80,330,/,NEU,s,/,SP,F,/,F,,Random to Samiopoula
+10:24,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,0,0,/,POS,m,/,FR,S,"4IB,BR,2B,4BU",F,POOING,Random to Samiopoula
+10:27,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,2,1,1,0,0,0,0,"1SF,1SeC","1Sm,1Sem",0,0,/,POS,m,/,FR,S,"2IB,4BU,1B",S,,Random to Samiopoula
+10:30,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,2,1,1,0,0,0,0,"1SF,1SeC","1Sm,1Sem",10,270,/,NEU,s,/,SP,"F,D",/,F,,Random to Samiopoula
+10:33,118,21,17.05.2017,/,/,DD,1,10,8,2,0,Puffinus yelkouan,1,0,1,0,0,0,0,1SeC,1Sem,50,270,/,NEU,s,/,SP,"F,D",1BU,F,,Random to Samiopoula
+11:02,118,22,17.05.2017,37.6495,26.95316,DD,1,7,7,0,0,/,0,0,0,0,0,0,0,/,/,30,0,/,POS,m,/,FR,S,"3IB,BU,BR,1LBr,4MA",S,,Random to Samiopoula
+11:05,118,22,17.05.2017,/,/,DD,1,7,7,0,0,/,1,0,1,0,0,0,0,1SeM,1Sem,0,45,/,POS,m,/,SP,S,"1B,BR,1IB",S,,Random to Samiopoula
+11:08,118,22,17.05.2017,/,/,DD,1,7,7,0,0,/,1,0,1,0,0,0,0,1SeC,1Sem,0,0,/,POS,m,NMU,SP,S,1B,S,,Random to Samiopoula
+8:29,119,23,18.05.2017,37.6781,26.967983,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,250,45,E,NEU,m,S,SP,"F,D",4B,F,,Random to Pythagorio bay
+8:33,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,0,0,/,NEU,m,/,SP,"F,Mi","1IB, 2B",F,,Random to Pythagorio bay
+8:36,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Caretta caretta+Puffinus yelkouan ,0,0,0,0,0,0,0,/,/,0,0,E,POS,m,M,SP,"F,D, So","2IB,2Ma,BR",F,,Random to Pythagorio bay
+8:39,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,0,0,/,POS,m,/,SP,S,"BR, 1B",S,,Random to Pythagorio bay
+8:44,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,0,0,/,POS,m,/,SP,S,"1BU,BR,2B",S,,Random to Pythagorio bay
+8:47,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,70,0,/,NEU,f,L,EC,"TR,D",/,TR,DOLPHIN GONE,Random to Pythagorio bay
+8:50,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,0,45,E,NEU,f,L,SP,"F,D",/,F,,Random to Pythagorio bay
+8:53,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,50,20,/,POS,f,M,SP,F/S/Re,"2IB,BR,1CD",S,GROUP SPLIT IN 2,Random to Pythagorio bay
+9:00,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,50,45,W,NEU,s,NA,LI,F,BR,F,,Random to Pythagorio bay
+9:03,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,0,20,E,NEU,s,S,SP,"F,Mi","BR,1B,2LBr,BR",F,,Random to Pythagorio bay
+9:06,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,0,0,E,POS,f,S,SP,"TR,D","BR,1B",TR,,Random to Pythagorio bay
+9:09,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,40,90,E,NEU,s,S,LI,"F,D",/,F,,Random to Pythagorio bay
+9:12,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,80,20,/,NEU,s,S,FR,"F,D",2B,F,BOAT STOP,Random to Pythagorio bay
+9:15,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,40,20,/,NEU,s,M,LI,"F,D",/,F,,Random to Pythagorio bay
+9:18,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,30,100,W,NEU,s,M,SP,"F,D",/,F,,Random to Pythagorio bay
+9:25,119,23,18.05.2017,/,/,DD,1,20,17,3,0,Puffinus yelkouan,0,0,0,0,0,0,0,/,/,90,110,/,NEU,f,NMU,SP,"TR,D",2B,TR,DOLPHIN GONE,Random to Pythagorio bay
+10:53,119,24,18.05.2017,37.6563,26.912131,DD,1,14,12,2,0,Tuna+Puffinus yelkouan,1,0,1,0,0,0,0,1SeC,1Sem,250,45,W,NEU,f,/,SP,TR,"3B,2IB",TR,,Random to Pythagorio bay
+10:57,119,24,18.05.2017,/,/,DD,1,14,12,2,0,Tuna+Puffinus yelkouan,1,0,1,0,0,0,0,1SeC,1SeM,100,45,/,NEU,f,S,FR,TR,"1CD,2B",TR,,Random to Pythagorio bay
+11:00,119,24,18.05.2017,/,/,DD,1,14,12,2,0,Tuna+Puffinus yelkouan,1,0,1,0,0,0,0,1SeC,1Sef,100,20,/,NEU,f,/,SP,TR,/,TR,,Random to Pythagorio bay
+11:03,119,24,18.05.2017,/,/,DD,1,14,12,2,0,Tuna+Puffinus yelkouan,1,0,1,0,0,0,0,1SeC,1Sef,50,45,/,NEU,s,S,SP,F,/,F,,Random to Pythagorio bay
+11:06,119,24,18.05.2017,/,/,DD,1,14,12,2,0,Tuna+Puffinus yelkouan,1,0,1,0,0,0,0,1SeM,1Sef,70,200,/,NEU,s,L,SP,"F,D",/,F,,Random to Pythagorio bay
+11:10,119,24,18.05.2017,/,/,DD,1,14,12,2,0,Tuna+Puffinus yelkouan,2,0,2,0,0,0,0,2SeF,2Sef,200,70,/,NEU,s,L,SP,F,/,F,,Random to Pythagorio bay
+11:13,119,24,18.05.2017,/,/,DD,1,14,12,2,0,Tuna+Puffinus yelkouan,2,0,2,0,0,0,0,"1SeF,1SeC",2Sef,20,20,/,NEU,s,M,SP,"F,D",/,F,,Random to Pythagorio bay
+11:16,119,24,18.05.2017,/,/,DD,1,14,12,2,0,Tuna+Puffinus yelkouan,2,0,2,0,0,0,0,"1SeC,1SeF",2Sef,100,200,/,NEU,m,L,SP,"F,D",/,F,,Random to Pythagorio bay
+11:19,119,24,18.05.2017,/,/,DD,1,14,12,2,0,Tuna+Puffinus yelkouan,1,0,1,0,0,0,0,1SeF,1Sef,80,0,/,NEU,s,L,SP,"F,D",/,F,,Random to Pythagorio bay
+11:22,119,24,18.05.2017,/,/,DD,1,14,12,2,0,Tuna+Puffinus yelkouan,0,0,0,0,0,0,0,/,/,40,45,/,NEU,s,/,SP,Re,1IB,Re,,Random to Pythagorio bay

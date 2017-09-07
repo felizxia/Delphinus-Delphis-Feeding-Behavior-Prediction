@@ -1,0 +1,273 @@
+---
+title: "dolphin_behavior"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Abstract
+Introduction
+Methodology 
+1. Data set
+  1) Dataset description( samples, predictors, maybe adding predictors' explantion{images})
+  2) Data Exploration 
+```{r  echo = FALSE}
+library(dplyr)
+library(lubridate)
+library(kernlab)
+library(gam)
+library(e1071)
+library(randomForest)
+require(caret)
+library(caTools)
+setwd("/Users/rita/Documents/dolphins_behaviors")
+dolphin<- read.csv("Behaviour-Table 1.csv",na.string=c("/","","UND","DD/TT","NA"))
+#data cleaning
+dolphin$T<- as.numeric(dolphin$T)
+dolphin$S<- as.numeric(dolphin$S)
+dolphin$Se<- as.numeric(dolphin$Se)
+dolphin$Fe[dolphin$Fe=="1b"]<-"1"
+dolphin$Fe<- as.numeric(dolphin$Fe)
+dolphin$J[dolphin$J>=1]<-1
+dolphin$J[dolphin$J==0]<-0
+dolphin$J<- as.factor(dolphin$J)
+Reaction<- dolphin$Reaction
+Reaction<- as.factor(Reaction)
+
+dolphin$Date<-dmy(dolphin$Date)
+class(dolphin$Date)
+
+dolphin=dolphin %>%  
+  dplyr::select(Species,Boat,S,Se,HSB,FB,Fe,T,J,Our.boat.dist,Movement.formation,Reaction,Category) %>%
+  na.omit %>%
+  filter(!S==0,!Se==0,!T==0,!Movement.formation=="TI",Species=="DD")%>% 
+  mutate(J_A=J,Behavior=Category)%>%
+  dplyr::select(Species,Boat,S,Se,HSB,FB,Fe,T,J_A,Our.boat.dist,Reaction,Behavior,Movement.formation)
+head(dolphin)
+dolphin$Behavior[dolphin$Behavior=="Ss"]<-"S"
+dolphin$Behavior[dolphin$Behavior=="Tr"]<-"TR"
+dolphin$Boat <- factor(dolphin$Boat)
+levels(dolphin$Behavior)<- c("Feeding","Not Feeding","Not Feeding","Not Feeding","Not Feeding","Not Feeding","Not Feeding","Not Feeding")
+summary(dolphin)
+```
+
+From summary of dolphin data, we can see that Delphinus Delphis dolphins' appearance are far more beyond Tursiops Truncatus. Since Delphinus Delphis dolphins is the most common dolphin in Samos island, thus I filtered Tursiops Truncatus dolphins to make our data more balanced. Except for that, the behavior of dolphins is unbalanced as well. As we can see Travelling and Feeding behaviors are most dominant, while other behaviors like socializing and resting are more hardly to observe, from our current dataset. And travelling behavior is far too often to observe in research, thus I decided to focus on what factors can influence Feeding behavior and Non-feeding behavior instead of spreading attention to various behaviors in our raw data set.
+
+
+```{r echo=FALSE}
+#filter 2016 and 2017 data
+sighting16<-  dolphin[dolphin$Date < as.Date("2016-01-01"),]
+sighting17<- dolphin[dolphin$Date > as.Date("2017-01-01"),]
+summary(sighting16)
+summary(sighting17)
+``` 
+  3) Train and Test dataset
+Since we have a small sample size, thus I choose 60% of sample as train data and 40% of sample as test data set. In order to have a balanced distribution of behavior in both dataset, I used prop.table to see percentage of both feeding and not feeding behavior in train and test dataset. From the result,we can see that they have similar probability, thus we choose this train and test data set.
+```{r echo=FALSE}
+#  2 ways of separate train data and test data 
+set.seed(1122)
+split<- round(nrow(dolphin)* .85)
+sample<-sample(nrow(dolphin), split)
+train_data<- dolphin[sample, ]
+test_data <- dolphin[-sample,]
+
+prop.table(table(train_data$Behavior))
+prop.table(table(test_data$Behavior))
+prop.table(table(train_data$Reaction))
+prop.table(table(test_data$Reaction))
+prop.table(table(train_data$J_A))
+prop.table(table(test_data$J_A))
+```
+
+2. Machine Learning Models
+1) Model selection
+Since our response is a binary factor, I first chose GLM model for this type of data.  I chose quasibinomial method because it's algorithm  can better deal with data for which the variance is larger. I use AUC  
+to evaluate this model. In ROC Curve, x axis is "True positive" rate and the y axis is "False positive rate".From the plot, we can see choose probablity equal to 0.99 can best estimate not feeding behavior.
+
+model_glm<- glm(Behavior~ J_A+Our.boat.dist+Reaction+Movement.formation ,train_data,family = quasibinomial)
+
+```{r echo=FALSE}
+library(pROC)
+roc_obj <- roc(category, prediction)
+auc(roc_obj)
+library(MASS)
+  model_glm<- glm(Behavior~ Reaction+J_A+Our.boat.dist,train_data,family = quasibinomial)
+  summary(model_glm)
+  
+  drop1(model_glm,test="Chi")
+# AUC for two levels prediction
+p_glm<- predict(model_glm,test_data,type="response")
+library(ROCR)
+pred <- prediction(predictions=p_glm,labels=test_data$Behavior)
+plot(pred)
+colAUC(p_glm,test_data$Behavior,plotROC = TRUE)
+
+```
+
+```{r echo=FALSE}
+#ignore those part
+p_class<- ifelse(p_glm >0.5,"Feeding","Not Feeding")
+
+confusionMatrix(p_class,test_data$Behavior)
+```
+
+```{r echo=FALSE}
+# Build controler, custom grid
+myControl <- trainControl(
+  method = "cv",
+  number = 10,
+  summaryFunction = twoClassSummary,
+  classProbs = TRUE, 
+  verboseIter = TRUE
+)
+
+
+```
+To better evaluate GLM model, I then used ROC and choose cross validation to evaluate the GLM model's performance. From the result, we can see ROC reaches 75.655% and true negative rate (specifity) reaches 82.5%, which means feeding behavior is more easliy to be predicted.
+
+
+# Model Evaluation
+
+We then used SVM model, where we get accuracy of 82.35%, kappa of 64.71%
+```{r echo=FALSE}
+# SVM model ~ decide which kernel to use
+library(kernlab)
+require(reshape2)
+
+
+set.seed(112)
+#choose cost and gamma
+svm_result <- tune(svm, Behavior ~ J_A+Reaction+Movement.formation,data=train_data, kernel = "radial", range = list(cost=10^(-1:3), gamma=c(0.5,1,2,100)))
+
+svm_result
+# Decide which kernal
+svm_test <-ksvm(Behavior ~ J_A+Boat+Reaction,data = train_data,kernel = "besseldot",cost=1,gamma=0.5)
+
+svm_predict<- predict(svm_test,test_data)
+svm_table<-table(test_data$Behavior,svm_predict)
+
+confusionMatrix(svm_table)
+
+
+```
+
+
+```{r echo=FALSE}
+#svm bagging practice
+
+bagctrl<- bagControl(fit=svmBag$fit, predict=svmBag$pred,aggregate = svmBag$aggregate)
+svmbag<- train(Behavior ~ J_A+Our.boat.dist+Reaction,data=train_data,"bag",trControl=myControl,bagControl=bagctrl)
+levels(train_data$J_A)<- as.factor(c(0,1))
+levels(train_data$Reaction)<- as.factor(c("NEG","NEU","POS"))
+levels(train_data$Our.boat.dist)<- as.numeric()
+svmBag
+```
+#don't use this, compare to decision trees, we use random forest
+```{r echo=FALSE}
+#decision tree
+library(C50)
+library(gmodels)
+decision<- C5.0(train_data[,-c(12)],train_data$Behavior)
+d_test<-predict(decision,test_data,type="class")
+summary(decision)
+CrossTable(test_data$Behavior,d_test,prop.chisq = FALSE, prop.c = FALSE, prop.r = FALSE,dnn=c('Actual Behavior','Predicted Behavior'))
+confusionMatrix(test_data$Behavior,d_test)
+boost<- C5.0(train_data[,-12],train_data$Behavior,trials=20)
+boost_test<- predict(boost,test_data)
+CrossTable(test_data$Behavior,boost_test,prop.chisq = FALSE, prop.c = FALSE, prop.r = FALSE,dnn=c('Actual Behavior','Predicted Behavior'))
+confusionMatrix(test_data$Behavior,boost_test)
+summary(boost)
+```
+choose mtry=2, we get accuracy of 0.7826  and kappa of 0.5693. Sensitivity : 0.6176 Specificity : 0.8621
+(F measurement) : f<- (2*0.6176 * 0.8621)/(0.6176+0.8621) --> 0.7196499
+```{r echo=FALSE}
+set.seed(12345)
+model_forest <- train(
+  Behavior ~  J_A+Reaction,  
+  tuneLength = 10,
+  data =train_data, method = "ranger",
+  trControl = trainControl(method = "cv", number = 10, verboseIter = TRUE)
+)
+model_forest
+plot(model_forest)
+rfpred<- predict.train(model_forest,test_data,type="raw")
+confusionMatrix(rfpred,test_data$Behavior)
+```
+
+```{r echo=FALSE}
+# use naiveBayes is inapproperiate because we have small sample and the behvaior proportion is equal to each other, which made the probablity of P(feeding) equal to 1
+library(e1071)
+test<- naiveBayes(train_data[,-c(1,12,3:8,10)],train_data$Behavior,laplace = 1)
+test
+predict<- predict(test, test_data,type="class")
+library(gmodels)
+CrossTable(predict,test_data$Behavior,prop.chisq = FALSE, prop.t = FALSE,
+dnn = c('predicted', 'actual'))
+confusionMatrix(test_data$Behavior,predict)
+
+
+```
+
+
+According to our glmnet model, we get ROC of 0.7775231, which is a accpetable performance 
+
+```{r echo=FALSE}
+ 
+# Only run this at the end, evaluate all the factor names
+feature.names=names(dolphin)
+
+for (f in feature.names) {
+  if (class(train_data[[f]])=="factor") {
+    levels <- unique(c(train_data[[f]]))
+    train_data[[f]] <- factor(train_data[[f]],
+                              labels=make.names(levels))
+  }
+}
+for (f in feature.names) {
+  if (class(test_data[[f]])=="factor") {
+    levels <- unique(c(test_data[[f]]))
+    test_data[[f]] <- factor(test_data[[f]],
+                              labels=make.names(levels))
+  }
+}
+```
+
+```{r echo=FALSE}
+
+# 0.7614 ROC
+model_behavior <- train(Behavior~ J_A+Our.boat.dist+Reaction+Movement.formation, train_data, method = "glm",
+               trControl = myControl)
+
+model_behavior
+
+```
+
+
+```{r echo=FALSE}
+# ROC 0.7735985, but kappa only 0.25
+# Train glmnet with custom trainControl and tuning: model
+library(glmnet)
+model <- train(
+  Behavior~J_A+Reaction, train_data,
+  tuneGrid = expand.grid(alpha = 0:1,
+  lambda = seq(0.0001, 1, length = 20)),
+  method = "glmnet",
+  trControl = myControl
+)
+
+# Print model to console
+model
+pred_glmnet<- predict(model, test_data)
+confusionMatrix(test_data$Behavior,pred_glmnet)
+# Print maximum ROC statistic
+max(model[["results"]][["ROC"]])
+x<- performance(pred_glmnet,"auc")
+auc <- as.numeric(x@y.values)
+```
+
+
+
+
